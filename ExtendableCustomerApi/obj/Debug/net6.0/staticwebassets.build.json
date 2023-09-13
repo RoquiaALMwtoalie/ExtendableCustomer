@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZGy0GGuhS4faSmAEqtMCYuEgddtmbcSORnJ/wUlQ5T0=",
+  "Source": "ExtendableCustomerApi",
+  "BasePath": "_content/ExtendableCustomerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
